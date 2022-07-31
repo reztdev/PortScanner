@@ -9,6 +9,10 @@ Simple Port Scanner with nmap tools.
 ```sudo pacman -S nmap```
 - Budgie
 ```sudo eopkg install nmap```
+- Termux
+```pkg install nmap```
+- Windows go to
+[`Nmap`](https://nmap.org/download.html#windows) and install `setup.exe` (as run Administrations)
 
 ## Install module
 ```
