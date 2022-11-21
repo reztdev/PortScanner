@@ -12,7 +12,7 @@ Simple Port Scanner with nmap tools.
 - Termux
 ```pkg install nmap```
 - Windows go to
-[`Nmap`](https://nmap.org/download.html#windows) and install `setup.exe` (as run Administrations)
+[`Nmap`](https://nmap.org/download.html#windows) and install `setup.exe` (as run Administrator)
 
 ## Install module
 ```
