@@ -12,7 +12,7 @@ try:
     import nmap
 except ImportError:
     print("[!] Please install the modules nmap!! (pip install python-nmap)")
-    exit(0)
+    sys.exit(0)
 
 class Color:
     W = '\033[0m'
